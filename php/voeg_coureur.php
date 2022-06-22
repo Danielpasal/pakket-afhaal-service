@@ -14,6 +14,8 @@ $huisnummer = $_POST['huisnummer'];
 $roll = 3;
 $woon_id = $_POST['woon_id'];
 
+
+
 $key = 'qkwjdiw239&&jdafweihbrhnan&^%$ggdnawhd4njshjwuuO';
 //ENCRYPT FUNCTION
 function encryptthis($data, $key) {
