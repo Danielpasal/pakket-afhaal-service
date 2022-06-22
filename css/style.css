@@ -1,0 +1,51 @@
+.col-sm{
+    margin-top: 10px;
+}
+.btn btn-primary{
+    color: dimgrey;
+}
+.div-spec{
+    padding-left: 150px;
+}
+.h1-spec{
+    padding-right: 200px;;
+}
+.div-1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.image-show{
+    border-color: black;
+
+    width: 400px;
+    height: 400px;
+}
+.naam{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-size: 30px;
+    color: darkgreen;
+}
+/*.body-background{*/
+/*    background:url("../img/achtergronden/cybercar.gif");  : 100% 100% fixed;*/
+/*    background-repeat: no-repeat;*/
+/*    background-position: center;*/
+/*    background-size: cover;*/
+
+/*}*/
+.btn{
+    margin: 2px;
+}
+.verwijder_kleur{
+    background-color: red;
+    color: red;
+}
+.mcolor{
+    color: red;
+}
+.btn-color-red{
+    background-color: red;
+}
